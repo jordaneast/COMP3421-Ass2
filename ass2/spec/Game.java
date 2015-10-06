@@ -1,4 +1,4 @@
-package ass2.spec;
+package COMP3421-Ass2.ass2.spec;
 
 import java.io.File;
 import java.io.FileNotFoundException;
